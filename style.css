@@ -63,11 +63,7 @@ header .navbar {
   align-items: center;
   justify-content: space-between;
 }
-  .logo {
-  color: black;
-  font-size: 24px;
-  font-family: 'Arial', sans-serif;
-}
+
 
 .navbar .nav-logo .logo-text {
 color: var(--white-color);
