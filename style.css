@@ -5,11 +5,20 @@ body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-
-header {
-    background-color:#3B141C;
-    color: white;
+:root {
+  --white-color: #ffffff;
+  --primary-color:#3B141C;
+  --dark-color: #252525;
+  --secondary-color: #f3961C;
+  --medium-gray-color: #CCC;
+  --light-pink-color: #FAF4F5;
 }
+
+  
+header {
+    background: var (--primary-color);
+}
+.navbar
 
 .nav-menu a {
   color: #ffffff;
