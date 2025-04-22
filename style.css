@@ -7,10 +7,10 @@
 }
 
 header {
-    background-color: #3b141c;
+    background-color:#3b141c;
 }
 
-.nav-bar . nav-menu{
+.nav-menu a {
   color: #fff;
+  text-decoration: none;
 }
-  
